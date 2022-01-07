@@ -1,5 +1,4 @@
 # NFT ART GENERATOR📦!
-![undertale_text_box](https://user-images.githubusercontent.com/88680048/146084737-a169b4e9-329c-4955-8340-19c7e1437bd8.gif)
 
 this is an asset-based procedural art generator, which means that you will have to create by hand everything you want your NFT to contain.
 
