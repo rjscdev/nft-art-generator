@@ -86,4 +86,4 @@ This project is under the MIT License- see the [LICENSE.md](https://github.com/P
  - Say thank you publicly 🤓.
  - etc.
 ##
-**⌨️ whit ❤️ by [Roberto Sanchez (Robeshiri)](https://github.com/PgrRjsc)**
+**⌨️ whit ❤️ by [Roberto Sanchez](https://github.com/PgrRjsc)**
